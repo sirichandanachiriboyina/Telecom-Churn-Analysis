@@ -140,5 +140,4 @@ Telecom-Churn-Analysis/
 ## 👩‍💻 Author
 **Siri Chandana**
 
-Master’s in Information Systems (Business Data Analytics)  
-Central Michigan University
+
