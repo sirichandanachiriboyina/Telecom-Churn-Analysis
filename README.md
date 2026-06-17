@@ -106,11 +106,8 @@ The interactive Tableau dashboard includes:
 - **Churn by Contract Type**
 
 ### Dashboard Preview
-Upload your dashboard screenshot in the `visuals/` folder and add:
+![Dashboard](telecom_churn_dashboard.png)
 
-```md
-![Dashboard](visuals/telecom_churn_dashboard.png)
-```
 
 ---
 
