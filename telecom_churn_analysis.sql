@@ -1,0 +1,9 @@
+-- TELECOM CUSTOMER CHURN ANALYSIS
+
+SELECT *
+FROM telecom_churn
+LIMIT 10;
+
+SELECT Churn, COUNT(*)
+FROM telecom_churn
+GROUP BY Churn;
